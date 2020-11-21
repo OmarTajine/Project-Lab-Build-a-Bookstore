@@ -12,7 +12,7 @@ Steps:
 - Push your code to the GitHub repository
 
 Second Part : SecondStep
-THE GOAL OF THIS PART IS TO CREATE AND MANIPULATE A DATABASE
+THE GOAL OF THIS PART IS TO CREATE AND MANIPULATE A DATABASE THROUGHT A JAVA PROGRAM
 
 Steps :
 - Add the database connection
@@ -22,4 +22,10 @@ Steps :
 - Add a method that display all the books stored in your database
 - Commit the code with a commit message describing the work done and a TAG = “Step 2”
 - Push your code to the GitHub repository
+
+IN ORDER FOR THIS PROJECT TO WORK YOU NEED TO ADD THE "MY-SQL-CONNECTOR-JAVA" DRIVER AS AN EXTERNAL JAR FILE
+
+DATABASE INFO :
+=> DATABASE NAME : BookStore
+=> TABLE NAME : Book
 
