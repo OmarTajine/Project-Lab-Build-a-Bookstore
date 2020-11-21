@@ -23,7 +23,7 @@ Steps :
 - Commit the code with a commit message describing the work done and a TAG = “Step 2”
 - Push your code to the GitHub repository
 
-IN ORDER FOR THIS PROJECT TO WORK YOU NEED TO ADD THE "MY-SQL-CONNECTOR-JAVA" DRIVER AS AN EXTERNAL JAR FILE
+IN ORDER FOR THIS PROJECT TO WORK YOU NEED TO ADD THE "MYSQL-CONNECTOR-JAVA" DRIVER AS AN EXTERNAL JAR FILE
 
 DATABASE INFO :
 => DATABASE NAME : BookStore
